@@ -8,7 +8,7 @@ RiskSee is a web-based application that aims to help organisation manage operati
 
 RiskSee provides a one-stop shop solution for mid-sized companies, including flow chart management, risk and control mapping, incident management, to-do reminder, reporting, visualisation and automatic risk identification empowered by AI.
 
-RiskSee would also be a good complement to the existing risk governance systems for large enterprises. Instead of replacing the existing system, RiskSee will be a productivity tool for the business, mainly to focus on rapid flow chart drawing, more granular risk identification, team collaboration, and reporting.
+RiskSee would also be a good complement to the existing risk governance systems for large enterprises. Instead of replacing the existing system, RiskSee will be a productivity tool for the business, mainly to focus on fast flow chart drawing, more granular risk identification, team collaboration, and reporting.
 
 This project was started back in November 2020. We have spent quite a lot of our spare time to complete some of the essential steps for a start-up, including the proof of concept with the demo developed. The founders are experienced in management consulting, project management, modelling and analytics.
 
