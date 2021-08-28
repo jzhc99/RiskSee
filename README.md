@@ -1,6 +1,6 @@
 ## Tech Partner wanted!
 
-In recent years, enterprise risk management has become one of the key topics in corporate governance. The regulators have slapped heavy fines on leading banks for their deficiency in internal controls. Many companies suffer from failures in their business operations, both financially and timely.
+In recent years, enterprise risk management has become one of the key topics in corporate governance. The regulators have slapped heavy fines on leading banks for their deficiency in internal controls. Many companies suffer from failures in their business operations, due to lack of robust risk management framework.
 
 In Australia, it’s mainly the large enterprises that have comprehensive risk management system in place. Most mid-sized companies only have a dedicated risk team but with risk management system in absence. They usually use Excel, PowerPoint or Visio to draw isolated risk mapping, or to carry out risk reporting. Not to mention smaller companies don't even have a risk team or to use a management system.
 
