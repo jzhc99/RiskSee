@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-Tech Partner WANTED!
+## Tech Partner wanted!
 
 In recent years, enterprise risk management has become one of the key topics in corporate governance. The regulators have slapped heavy fines on leading banks for their deficiency in internal controls. Many companies suffer from failures in their business operations, both financially and timely.
 
