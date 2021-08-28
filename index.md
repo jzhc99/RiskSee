@@ -14,6 +14,8 @@ This project was started back in November 2020. The two partners have used their
 
 If you have experience in front- and back-end development using JavaScript, HTML, CSS, Python, and more importantly, if you are interested in our project, and are happy to spend your time on this, please reach out to us! We appreciate the risk involved in such start-up projects, and at this stage we are not able to offer any cash compensation other than shares. 
 
+Please flick an email to support@risksee.com to reach out!
+
 Yours sincerely
 
 <a href="https://www.risksee.com">RiskSee</a>
