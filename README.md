@@ -12,7 +12,7 @@ RiskSee would also be a good complement to the existing risk governance systems 
 
 This project was started back in November 2020. We have spent quite a lot of our spare time to complete some of the essential steps for a start-up, including the proof of concept with the demo developed. The founders are experienced in management consulting, project management, modelling and analytics.
 
-If you have experience in front- and back-end development using JavaScript, HTML, CSS, Python, and more importantly, if you are interested in our project and are happy to invest your time in this, please flick an email to support@risksee.com! We appreciate the risk involved in such start-up projects, and at this stage we are not able to offer any cash compensation other than shares. 
+If you have experience in front- and back-end development using JavaScript, HTML, CSS, Python, and more importantly, if you are interested in our project and are happy to invest your time in this, please flick an email to support@risksee.com! We appreciate the risk involved in such start-up projects, and at this stage we are not able to offer any cash compensation other than shares. But we have faith in accomplishing the project and introducing the end product to the market.
 
 
 
